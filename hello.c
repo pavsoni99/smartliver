@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-cout << "Hello Ubuntu Lover in C++" << endl;
+cout << "Hello github!" << endl;
 return 0;
 }
